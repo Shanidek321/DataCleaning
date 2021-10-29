@@ -1,6 +1,6 @@
 # DataCleaning
 <h3> Using Dataset that includes information about Nashville Housing and has data about every transaction that occured up until 2019 from excel file,
-and cleaing the unnecessary data using SQL</h3>
+and cleaning the unnecessary data using SQL</h3>
 <h4> What has been cleaned:</h4>
 - Changing the date format
 <br>
