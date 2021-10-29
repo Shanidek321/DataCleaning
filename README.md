@@ -1,6 +1,7 @@
 # DataCleaning
 Using Dataset from excel file,
-and cleaing the unnecessary data by:
+and cleaing the unnecessary data with SQL,
+What has been cleaned:
 1) Chaning the date  format
 2) Saperating the property address into individual columns (address,city and state)
 3) Saperating the owner address into individual columns (address,city and state)
