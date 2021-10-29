@@ -1,9 +1,11 @@
 # DataCleaning
-Using Dataset from excel file,
-and cleaing the unnecessary data with SQL,
-What has been cleaned:
-1) Chaning the date  format
-2) Saperating the property address into individual columns (address,city and state)
-3) Saperating the owner address into individual columns (address,city and state)
-4) Removing duplicates
-5) Deleting unused columns
+<h3> Using Dataset that includes information about Nashville Housing and has data about every transaction that occured up until 2019 from excel file,
+and cleaing the unnecessary data using SQL</h3>
+<h4> What has been cleaned:</h4>
+&nbsp; Changing the date format
+&nbsp; Seperating the property address into individual columns (address,city and state)
+&nbsp; Seperating the owner address into individual columns (address,city and state)
+&nbsp; Removing duplicates records
+&nbsp; Deleting unused columns
+
+<h3>The result is a clean, usable dataset that is now can be easily analyzed.</h3>
